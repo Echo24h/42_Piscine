@@ -1,0 +1,6 @@
+Credentials cache: API:4544
+        Principal: gborne@42NICE.FR
+
+  Issued                Expires               Principal
+Jul  7 09:25:04 2021  Jul  7 19:25:04 2021  krbtgt/42NICE.FR@42NICE.FR
+Jul  7 09:25:08 2021  Jul  7 19:25:04 2021  HTTP/student-storage.42nice.fr@42NICE.FR
